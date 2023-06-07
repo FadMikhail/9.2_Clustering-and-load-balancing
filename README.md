@@ -154,6 +154,8 @@ listen web_tcp
         
         server s2 127.0.0.1:9999 check inter 3s
         
+![image](https://github.com/FadMikhail/9.2_Clustering-and-load-balancing/assets/132131230/f070f252-bf22-4e2c-8c58-c387b6a7afd3)
+
 
 
 
