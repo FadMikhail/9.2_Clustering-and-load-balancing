@@ -57,6 +57,9 @@ https://github.com/FadMikhail/9.2_Clustering-and-load-balancing/blob/33cbf260730
 
 
 
+![image](https://github.com/FadMikhail/9.2_Clustering-and-load-balancing/assets/132131230/cc8ae347-e862-4a43-9037-9878f56071f7)
+
+
 ---
 
 ## Задания со звёздочкой*
